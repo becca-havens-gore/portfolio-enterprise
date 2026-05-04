@@ -1,2 +1,2 @@
-# portfolio-data
-Portfolio for Rebecca Havens Gore, showcasing my telemetry-adjacent skills and experience.
+# portfolio-enterprise
+Portfolio for Rebecca Havens Gore, showcasing the enterprise UX work of Rebecca Havens Gore.
